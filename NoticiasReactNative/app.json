@@ -1,0 +1,11 @@
+{
+  "name": "NoticiasReactNative",
+  "displayName": "NoticiasReactNative",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "7aa2dd66-4d33-4167-aaa7-1aa252b84203"
+      }
+    }
+  }
+}
